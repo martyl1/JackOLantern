@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ammo": "^3.0.3",
+    "ammo.js": "github:kripken/ammo.js",
+    "stats.js": "^0.17.0",
+    "three": "^0.160.0"
+  }
+}
